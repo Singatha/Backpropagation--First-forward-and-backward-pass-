@@ -1,0 +1,38 @@
+Xhanti Singatha
+SNGXHA002
+
+ML Lab 6 Answers
+
+
+Hidden node output:
+     node 1: 0.5
+     node 2: 0.731059
+   
+
+Outputs:
+     y1 = 0.622459
+     y2 = 0.557509
+
+
+Error for each output:
+     Error for y1: 0.0887235
+     Error for y2: -0.137533
+
+
+New weights for layer 2 connections:
+    w11 = 1.00444
+    w12 = 0.0064862
+    w21 = -1.0068
+    w22 = 0.989946
+
+
+Hidden node errors:
+    Error for node 1: 0.0565642
+    Error for node 2: -0.0270407
+
+
+New weights for layer 1 connections:
+     v11 = -1
+     v12 = 0
+     v21 = 0.00565642
+     v22 = 0.997296
